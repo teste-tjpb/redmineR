@@ -11,7 +11,7 @@ To install the package from GitHub, you can use package `remotes` (or `devtools`
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("openanalytics/redmineR")
+remotes::install_github("teste-tjpb/redmineR")
 ```
 
 To get a quick package overview, run:
